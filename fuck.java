@@ -1,5 +1,5 @@
-public class dick {
+public class fuck {
     public static void main(String[] args) {
-        System.out.println("long");
+        System.out.println("fuck");
     }
 }
